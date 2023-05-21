@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Find The Word</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="prefs_file">com.example.login_app.PREFERENCE_FILE_KEY</string>
+    <string name="type_a_word">type a word…</string>
+    <string name="check">CHECK</string>
+    <string name="give_up">GIVE UP</string>
+    <string name="are_you_sure_you_want_to_give_up">Are You Sure You Want To Give Up</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="game_over">Game Over</string>
+    <string name="possible_answer">Possible Answer</string>
+    <string name="answer">answer</string>
+    <string name="your_score">Your Score</string>
+    <string name="_0">0</string>
+    <string name="new_high_score">*New High Score*</string>
+    <string name="replay">Replay</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="blank">blank</string>
+    <string name="volume">volume</string>
+    <string name="logo">Logo</string>
+    <string name="best_score">Best Score</string>
+    <string name="play">Play</string>
+    <string name="exit">exit</string>
+</resources>
