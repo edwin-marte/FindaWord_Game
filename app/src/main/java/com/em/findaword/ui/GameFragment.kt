@@ -163,8 +163,7 @@ class GameFragment : Fragment() {
             if (highScore.toInt() < currentScore.toInt()) {
                 binding.newMaxScoreText.visibility = View.VISIBLE
                 val sPrefs = requireActivity().getSharedPreferences(
-                    resources.getString(R.string.prefs_file),
-                    MODE_PRIVATE
+                    resources.getString(R.string.prefs_file), MODE_PRIVATE
                 ).edit()
                 sPrefs.putString("highScore", currentScore)
                 sPrefs.apply()
